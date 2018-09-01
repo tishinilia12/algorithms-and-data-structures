@@ -1,0 +1,14 @@
+﻿  work4.cpp
+d:\документы\visual studio 2017\projects\work4\work4\work4.cpp(35): warning C4018: <: несоответствие типов со знаком и без знака
+d:\документы\visual studio 2017\projects\work4\work4\work4.cpp(42): warning C4018: <: несоответствие типов со знаком и без знака
+d:\документы\visual studio 2017\projects\work4\work4\work4.cpp(54): warning C4244: аргумент: преобразование "li" в "const unsigned int", возможна потеря данных
+d:\документы\visual studio 2017\projects\work4\work4\work4.cpp(55): warning C4244: аргумент: преобразование "li" в "const unsigned int", возможна потеря данных
+d:\документы\visual studio 2017\projects\work4\work4\work4.cpp(57): warning C4244: аргумент: преобразование "li" в "const unsigned int", возможна потеря данных
+d:\документы\visual studio 2017\projects\work4\work4\work4.cpp(59): warning C4244: аргумент: преобразование "li" в "const unsigned int", возможна потеря данных
+d:\документы\visual studio 2017\projects\work4\work4\work4.cpp(63): warning C4244: аргумент: преобразование "li" в "const unsigned int", возможна потеря данных
+d:\документы\visual studio 2017\projects\work4\work4\work4.cpp(66): warning C4244: аргумент: преобразование "li" в "const unsigned int", возможна потеря данных
+d:\документы\visual studio 2017\projects\work4\work4\work4.cpp(84): warning C4244: инициализация: преобразование "li" в "int", возможна потеря данных
+d:\документы\visual studio 2017\projects\work4\work4\work4.cpp(95): warning C4244: =: преобразование "li" в "int", возможна потеря данных
+d:\документы\visual studio 2017\projects\work4\work4\work4.cpp(110): warning C4101: n: неиспользованная локальная переменная
+  work4.vcxproj -> d:\документы\visual studio 2017\Projects\work4\Debug\work4.exe
+  work4.vcxproj -> d:\документы\visual studio 2017\Projects\work4\Debug\work4.pdb (Partial PDB)
